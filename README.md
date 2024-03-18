@@ -1,3 +1,0 @@
-# Capsule Endoscopy
-
-## Project Description
